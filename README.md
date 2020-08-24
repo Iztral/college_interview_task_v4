@@ -15,7 +15,7 @@ Zadanie 1
 Zadanie 2
 1. Refactoring zrobiony, rozbito na pomniejsze metody, podczyszczono kod.
 2. Zaimplementowano interfejs parsowania, zaimplementowano klasę bazową jako handlery zapytań o bitmapę lub dictionary.
-3. Stworzono przykładowe unit testy.
+3. Nie stworzono przykładowych unit testów.
 
 Zadanie 3
 Na podsawie klasy stworzono przykładową aplikację konsolową wysyłającą zapytania do WebApi. API jest pośrednikiem do bazy danych przetrzymującej zdjęcia. Aplikacja pozwala na odczytanie listy dostępnych obrazów, a nastepnie pobranie ich na dysk. Do działania wymaga uruchomionego ImageStoreAPI.
